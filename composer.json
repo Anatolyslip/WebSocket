@@ -9,6 +9,7 @@
     "license": "BSD-3-Clause",
     "require": {
         "php": "^5.6 || ^7.0",
+        "Anatolyslip/WebSocket" : "^0.1.0"
     },
     "extra": {
         "branch-alias": {
