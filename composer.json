@@ -1,20 +1,7 @@
 {
     "name": "Anatolyslip/WebSocket",
     "description": "slip",
-    "type": "metapackage",
-    "keywords": [
-        "framework"
-    ],
-    "homepage": "http://framework.zend.com/",
-    "license": "BSD-3-Clause",
     "require": {
-        "php": "^5.6 || ^7.0",
-        "Anatolyslip/WebSocket" : "^0.1.0"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.0-dev",
-            "dev-develop": "3.1-dev"
-        }
+        "php": "^5.6 || ^7.0"
     }
 }
